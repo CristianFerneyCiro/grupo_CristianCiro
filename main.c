@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//primera rama
+//primera rama v
 int main()
 {
     int x=0;
