@@ -3,6 +3,7 @@
 
 int main()
 {
+    int X=5+5;
     int x=0;
     int i;
     for(i=0;i<5;i++){
